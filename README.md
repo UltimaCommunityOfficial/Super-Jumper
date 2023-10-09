@@ -1,2 +1,3 @@
 # Super-Jumper
-hi
+A small little unity platformer I made :D
+ 
